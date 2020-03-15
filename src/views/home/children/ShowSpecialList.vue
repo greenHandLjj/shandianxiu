@@ -40,6 +40,7 @@ export default {
 <style lang="less" scoped>
 .show-special-list {
   padding: 0 0.24rem;
+  margin-bottom: .48rem;
 
   .show-special-wrp {
     display: flex;

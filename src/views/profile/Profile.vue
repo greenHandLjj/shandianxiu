@@ -6,7 +6,10 @@
 
 <script>
 export default {
-  name: "Profile"
+  name: "Profile",
+  mounted() {
+    this.$router.replace('/login')
+  }
 }
 </script>
 

@@ -1,6 +1,6 @@
 <template>
   <div id="repair">
-    repair
+    
   </div>
 </template>
 
@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+#repair{
+  
+}
 </style>
